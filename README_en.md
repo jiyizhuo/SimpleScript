@@ -1,37 +1,14 @@
 # SimpleScript
 
-#### Description
-Simple Script，用Python开发，基于Pyfang的全新语言。
-（P.S.非木兰语言，没有抄其他任何语言）
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Introduction
+Simple script, developed in Python, is based on pyfang's new glue language.
+<br/>
+If you need an I (interpretive), S (simple) and E (extensible) language, it must be your first choice.
+## Software architecture
+The main program is written in Python 3.8,
+<br/>
+Compile binary bytecode using by Pyinstaller.
+## Installation tutorial
+See wiki for details
+##Instructions for use
+See wiki for details
