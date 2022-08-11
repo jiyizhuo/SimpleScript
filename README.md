@@ -1,8 +1,8 @@
 # SimpleScript
 
 #### 介绍
-Simple Script，用Python开发，基于Pyfang的全新语言。
-（P.S.非木兰语言，没有抄其他任何语言）
+Simple Script，用Python开发，原理基于Pyfang的全新语言。
+<br/>
 
 #### 软件架构
 软件架构说明
